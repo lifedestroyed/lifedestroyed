@@ -11,22 +11,22 @@ I continue to learn and develop my skills by creating interesting projects and e
 
 ## My Projects
 
-### Project 1: Project Title
-Short description of the project. You can talk about its goals and main features.  
-[View Project 1](<Insert_Project_1_Link>)
+### DRY RPC (Almost released for Beta)
+Top secret. BRUH.  
+[View Project 1](trytosmilepls.github.io/rpc/)
 
 ---
 
-### Project 2: Project Title
-Short description of the project. You can mention the technologies used in this project.  
-[View Project 2](<Insert_Project_2_Link>)
+### trysmile Website (Working, main project)
+My website :>.  
+[View Project 2](trytosmilepls.github.io)
 
 ---
 
-### Project 3: Project Title
-Short description of the project. Mention what you learned from this experience.  
-[View Project 3](<Insert_Project_3_Link>)
+### FriesMC Website (Working)
+Why im working on this project? I`am a FriesMC's technical administrator and developer.  
+[View Project 3](friesmc.github.io)
 
 ## Contact Me
 
-You can reach me through my website: [trytosmilepls.github.io](https://trytosmilepls.github.io) or by email: [work.demonter@mail.ru](mailto:work.demonter@mail.ru).
+You can reach me through my website: [trytosmilepls.github.io/contact/](https://trytosmilepls.github.io/contact/) or by email: [work.demonter@mail.ru](mailto:work.demonter@mail.ru).
