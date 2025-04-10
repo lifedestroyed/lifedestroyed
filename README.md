@@ -13,19 +13,19 @@ I continue to learn and develop my skills by creating interesting projects and e
 
 ### DRY RPC (Almost released for Beta)
 Top secret. BRUH.  
-[View Project 1](trytosmilepls.github.io/rpc/)
+[View this project](trytosmilepls.github.io/rpc/)
 
 ---
 
 ### trysmile Website (Working, main project)
 My website :>.  
-[View Project 2](trytosmilepls.github.io)
+[View this project](trytosmilepls.github.io)
 
 ---
 
 ### FriesMC Website (Working)
 Why im working on this project? I`am a FriesMC's technical administrator and developer.  
-[View Project 3](friesmc.github.io)
+[View this project](friesmc.github.io)
 
 ## Contact Me
 
