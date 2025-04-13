@@ -11,7 +11,7 @@ I continue to learn and develop my skills by creating interesting projects and e
 
 ## My Projects
 
-### DRY RPC (Almost released for Beta)
+### DiscordRPC (Beta release)
 Top secret. BRUH.  
 [View this project](trytosmilepls.github.io/rpc/)
 
