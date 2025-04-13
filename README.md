@@ -12,7 +12,7 @@ I continue to learn and develop my skills by creating interesting projects and e
 ## My Projects
 
 ### DiscordRPC (Beta release)
-Top secret. BRUH.  
+Create your own Rich Presence for Discord!  
 [View this project](trytosmilepls.github.io/rpc/)
 
 ---
