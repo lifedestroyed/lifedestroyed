@@ -13,19 +13,19 @@ I continue to learn and develop my skills by creating interesting projects and e
 
 ### DiscordRPC (Beta release)
 Create your own Rich Presence for Discord!  
-[View this project](trytosmilepls.github.io/rpc/)
+[View this project](https://trytosmilepls.github.io/rpc/)
 
 ---
 
 ### trysmile Website (Working, main project)
 My website :>.  
-[View this project](trytosmilepls.github.io)
+[View this project](https://trytosmilepls.github.io)
 
 ---
 
 ### FriesMC Website (Working)
 Why im working on this project? I`am a FriesMC's technical administrator and developer.  
-[View this project](friesmc.github.io)
+[View this project](https://friesmc.github.io)
 
 ## Contact Me
 
