@@ -1,6 +1,6 @@
-# Hello, I'm a 15-year-old programmer!
+# Hello, I am a programmer!
 
-My name is **Alexander/TrySmile**, and I have been interested in programming from a young age. I have experience working with various programming languages, including:
+My name is **TrySmile**, and I have been interested in programming from a young age. I have experience working with various programming languages, including:
 
 - HTML
 - CSS
@@ -23,9 +23,9 @@ My website :>.
 
 ---
 
-### FriesMC Website (Working)
-Why im working on this project? I`am a FriesMC's technical administrator and developer.  
-[View this project](https://friesmc.github.io)
+### SGTR Website (Working)
+Empty. 
+[View this project](https://sgtr-team.github.io)
 
 ## Contact Me
 
