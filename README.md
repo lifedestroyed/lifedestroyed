@@ -1,6 +1,6 @@
 # Hello, I am a programmer!
 
-My name is **TrySmile**, and I have been interested in programming from a young age. I have experience working with various programming languages, including:
+My name is **life destroyed**, and I have been interested in programming from a young age. I have experience working with various programming languages, including:
 
 - HTML
 - CSS
@@ -13,13 +13,13 @@ I continue to learn and develop my skills by creating interesting projects and e
 
 ### DiscordRPC (Beta release)
 Create your own Rich Presence for Discord!  
-[View this project](https://trytosmilepls.github.io/rpc/)
+[View this project](https://lifedestroyed.github.io/rpc/)
 
 ---
 
-### trysmile Website (Working, main project)
+### life destroyed Website (Working, main project)
 My website :>.  
-[View this project](https://trytosmilepls.github.io)
+[View this project](https://lifedestroyed.github.io)
 
 ---
 
@@ -27,6 +27,12 @@ My website :>.
 Empty. 
 [View this project](https://sgtr-team.github.io)
 
+---
+
+### FriedTeam Website (Working)
+Empty. 
+[View this project](https://friedteam.github.io)
+
 ## Contact Me
 
-You can reach me through my website: [trytosmilepls.github.io/contact/](https://trytosmilepls.github.io/contact/) or by email: [work.demonter@mail.ru](mailto:work.demonter@mail.ru).
+You can reach me through my website: [lifedestroyed.github.io/contact/](https://lifedestroyed.github.io/contact/) or by email: [work.demonter@mail.ru](mailto:work.demonter@mail.ru).
