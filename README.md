@@ -33,6 +33,8 @@ Empty.
 Empty. 
 [View this project](https://friedteam.github.io)
 
+---
+
 ## Contact Me
 
 You can reach me through my website: [lifedestroyed.github.io/contact/](https://lifedestroyed.github.io/contact/) or by email: [work.demonter@mail.ru](mailto:work.demonter@mail.ru).
