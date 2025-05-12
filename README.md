@@ -29,9 +29,9 @@ Empty.
 
 ---
 
-### FriedTeam Website (Working)
-Empty. 
-[View this project](https://friedteam.github.io)
+### FriedTeam Website (Closed)
+Unfortunately, this project has been closed. To learn more, click "View archive".
+[View archive](https://friedteam.github.io)
 
 ---
 
