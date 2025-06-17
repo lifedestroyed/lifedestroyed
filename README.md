@@ -11,15 +11,15 @@ I continue to learn and develop my skills by creating interesting projects and e
 
 ## My Projects
 
-### DiscordRPC (Beta release)
-Create your own Rich Presence for Discord!  
-[View this project](https://lifedestroyed.github.io/rpc/)
+### PyBeginner (Released)
+Learn Python easily and quickly!  
+[View this project](https://pybeginner-ld.github.io)
 
 ---
 
-### life destroyed Website (Working, main project)
-My website :>.  
-[View this project](https://lifedestroyed.github.io)
+### DestroyedTerminal (Working, main project)
+Advanced multi-shell terminal.  
+[View this project](https://destroyedterminal.github.io)
 
 ---
 
@@ -29,12 +29,22 @@ Empty.
 
 ---
 
-### FriedTeam Website (Closed)
-Unfortunately, this project has been closed. To learn more, click "View archive".
-[View archive](https://friedteam.github.io)
+### gpsearch.ld (Released)
+Fast Github Profile Search.
+[View this project](https://gpsearch-ld.github.io)
+
+---
+
+### linkmasker.ld (Released)
+Want to mask your link? Use linkmasker.ld.
+[View this project](https://lifedestroyed.github.io/linkmasker) [Old version](https://lifedestroyed.github.io/linkmasker/old)
 
 ---
 
 ## Contact Me
 
 You can reach me through my website: [lifedestroyed.github.io/contact/](https://lifedestroyed.github.io/contact/) or by email: [work.demonter@mail.ru](mailto:work.demonter@mail.ru).
+
+## Warning
+
+All my works are under the LIFE DESTROYED LICENSE, which prohibits modification, cloning, or use of works for personal purposes. You can use my work only on the official websites listed here.
