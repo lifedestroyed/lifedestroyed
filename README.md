@@ -6,6 +6,7 @@ My name is **life destroyed**, and I have been interested in programming from a 
 - CSS
 - Python
 - Java
+- JavaScript
 
 I continue to learn and develop my skills by creating interesting projects and experiments.
 
